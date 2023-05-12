@@ -18,7 +18,6 @@ This script requires the following Python packages:
 - wget
 - requests
 - requests-html
-- tqdm
 
 You can install these packages by running `pip install -r requirements.txt`.
 
