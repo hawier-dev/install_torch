@@ -1,0 +1,6 @@
+rich
+beautifulsoup4
+wget
+requests
+requests-html
+tqdm
